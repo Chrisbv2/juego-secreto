@@ -1,10 +1,10 @@
-🎮 Juego del Número Secreto
+<h1>🎮 Juego del Número Secreto</h1>
 
 ¡Bienvenido al Juego del Número Secreto! Este es un divertido juego de navegador en el que pones a prueba tu suerte y tu lógica para adivinar un número secreto generado al azar.
 
 (Opcional: puedes grabar un GIF corto del juego y subirlo a un sitio como Imgur para enlazarlo aquí)
 
-✨ Características Principales
+<h1>✨ Características Principales</h1>
 Niveles de Dificultad: Elige entre diferentes rangos de números para aumentar el desafío:
 
 Fácil: 1 al 10
@@ -19,13 +19,13 @@ Interfaz Interactiva: Una interfaz limpia y sencilla que te guía con pistas sob
 
 Diseño Responsivo: Disfruta del juego desde cualquier dispositivo.
 
-🚀 Cómo Jugar
+<h1>🚀 Cómo Jugar</h1>
 No necesitas instalar nada. Simplemente sigue estos pasos para ejecutar el juego en tu máquina local:
 
 Clona el repositorio (o descarga los archivos ZIP).
 
 
-🛠️ Tecnologías Utilizadas
+<h1>🛠️ Tecnologías Utilizadas</h1>
 Este proyecto fue construido utilizando tecnologías web fundamentales:
 
 HTML5: Para la estructura y el contenido del juego.
